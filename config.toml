@@ -1,6 +1,6 @@
-baseURL = "http://etiennebouteille.com/"
+baseURL = "https://eloquent-lovelace-d848bf.netlify.com/"
 languageCode = "en-us"
-title = "Etienne Bouteille"
+title = "Morgane Siau"
 pluralizeListTitles = false
 
 [[menu.main]]
