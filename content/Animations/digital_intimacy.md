@@ -4,7 +4,7 @@ date: 2018-10-20T16:34:01+02:00
 draft: false
 menu:
     main:   
-        parent: 2018
+        parent: Animations
 year: "2018"
 type: "Augmented Reality application"
 dimensions: ""
