@@ -4,7 +4,7 @@ date: 2018-10-20T16:34:19+02:00
 draft: false
 menu:
     main:   
-        parent: 2017
+        parent: Design d'objets
 collaboration: "Léo Magos"
 year: "2016"
 type: "Lampe"

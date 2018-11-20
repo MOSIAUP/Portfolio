@@ -4,7 +4,7 @@ date: 2018-10-20T16:35:40+02:00
 draft: false
 menu:
     main:   
-        parent: 2017
+        parent: Design d'objets
 year: "2017"
 type: "Interative audio-visual installation"
 dimensions: "74 cmm x 165 cm"
