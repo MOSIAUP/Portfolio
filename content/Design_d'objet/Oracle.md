@@ -5,7 +5,7 @@ draft: false
 menu:
     main:   
         parent: 2017
-colaboration: "Léo Magos"
+collaboration: "Léo Magos"
 year: "2016"
 type: "Lampe"
 material: "Bois brulé, feuilles d'or"
