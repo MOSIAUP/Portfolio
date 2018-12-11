@@ -4,19 +4,19 @@ title = "Morgane Siau"
 pluralizeListTitles = false
 
 [[menu.main]]
-    identifier = "2018"
-    name = "2018"
-    url = "/2018/"
+    identifier = "Animations"
+    name = "Animations"
+    url = "/Animations"
     weight = 1
 
 [[menu.main]]
-    identifier = "2017"
-    name = "2017"
-    url = "/2017/"
+    identifier = "Design d'objets"
+    name = "Design d'objets"
+    url = "/design_dobjet/"
     weight = 2
 
 [[menu.main]]
-    identifier = "2016"
-    name = "2016"
-    url = "/2016/"
+    identifier = "Illustrations"
+    name = "Illustrations"
+    url = "/illustrations/"
     weight = 3
