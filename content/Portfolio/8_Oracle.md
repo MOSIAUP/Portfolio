@@ -4,11 +4,11 @@ date: 2018-10-20T16:34:19+02:00
 draft: false
 menu:
     main:   
-        parent: Design d'objets
+        parent: Portfolio
 collaboration: "Léo Magos"
 year: "2016"
 type: "Lampe"
-material: "Bois brulé, feuilles d'or"
+material: "Bois brulé_feuilles d'or"
 frontpage : false 
 ---
 
