@@ -8,13 +8,11 @@ material: "concrete"
 frontpage: false
 ---
 
-Hi my name is Etienne. I am a media artist living and working in Stockholm. Currently employed at Humans since 1982.
+Bonjour je suis Morgane, ou MOSIAUP comme vous le préférez. Grâce à ma licence et aujourd'hui à mon master, j'ai développé des compétences dans le domaine de l'art, tel que la mise en place de projets plastiques et design. Je souhaite développer mes projets vers la gestions et la création de projets multimédias. Entre l'artiste plasticien, le designer et le technicien, je voudrais être amenée à créer des dispositifs visuels et scénographiques en lien avec un univers sonore, tout en exploitant les outils technologiques et numériques innovants.
 
-If you want to get in touch with ideas, questions or anything else, you can reach me at etienne.bouteille@gmail.com
+morgane.siau@hotmail.fr
 
 
-[twitter](https://twitter.com/bouteillax)
+[instagram](https://www.instagram.com/mosiaup2.0/)
 
-[instagram](https://www.instagram.com/bouteillax/)
-
-[vimeo](https://vimeo.com/user9596519)
+[vimeo](https://vimeo.com/user74404275)
